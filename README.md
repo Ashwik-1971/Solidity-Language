@@ -1,2 +1,2 @@
-# Solidity-Language-Basics
+# Solidity-Language
 Smart Contracts course from university at buffalo
